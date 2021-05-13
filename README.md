@@ -39,6 +39,6 @@ Assignments, notes and other resources for the live game dev course: https://www
 [Asset Naming Conventions](https://www.ue4community.wiki/legacy/assets-naming-convention-qqp2b5m1)
 
 ## Assignments
-Create your first game. Specification coming soon (Wednesday, May 12)
+Create your first game and submit it to Itch.io. [Follow the requirements here.](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Assignments/Assignment%201.md)
 
 Sign up for an [Itch.io account](https://itch.io/)
