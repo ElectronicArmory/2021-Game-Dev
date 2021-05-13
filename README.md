@@ -19,6 +19,9 @@ Assignments, notes and other resources for the live game dev course: https://www
 
 [04 - Blender](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/04%20-%20Blender%203D.pdf)
 
+[05 - Intro to Unreal Engine](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/05%20-%20Intro%20to%20Unreal%20Engine%204.pdf)
+
+
 ## Readings
 ### Day 1
 [Indie game makers open up about the money they actually make](https://www.theverge.com/2019/10/9/20903139/indie-game-developers-creators-money-funding)
