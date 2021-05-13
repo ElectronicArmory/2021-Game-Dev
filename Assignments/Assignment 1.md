@@ -6,12 +6,13 @@ Develop a top down game that gives the player freedom of motion forward, backwar
 1. Top down game (can be from the side perspective like climbing a wall or building but must adhere to the same perspective).
 2. Input from the keyboard (A, S, D, W or arrow keys) that moves a player actor (Pawn).
 3. A player pawn that is able to move.
-4. Collision detection between the player and obstacles/enemies. Should trigger the lose condition.
-5. Lose condition.
-6. Win condition.
-7. Itch.io account.
-8. 2 Screenshots on Itch.io page.
-9. Video on Itch.io page. 30-60 seconds long.
+4. Two custom models from Blender.
+5. Collision detection between the player and obstacles/enemies. Should trigger the lose condition.
+6. Lose condition.
+7. Win condition.
+8. Itch.io account.
+9. 2 Screenshots on Itch.io page.
+10. Video on Itch.io page. 30-60 seconds long.
 
 ## Extra Requirements
 1. Add materials to all models and objects within the game.
