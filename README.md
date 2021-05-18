@@ -5,6 +5,25 @@ Assignments, notes and other resources for the live game dev course: https://www
 [Blueprint Source Code](https://blueprintue.com/profile/electronicarmory/)
 
 
+# Week 2
+
+## Notes
+[Materials](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/06%20-%20Materials%20in%20Game%20Dev.pdf)
+
+[Level Design]
+
+[Intro to Animations]
+
+
+## Readings
+
+### Day 4
+[How to Actually Finish Your First Game](https://howtomarketagame.com/2018/01/09/how-to-actually-finish-your-first-game-this-year/)
+
+
+## Assignments
+
+1st or 3rd person, or top down Crawler
 
 # Week 1
 
