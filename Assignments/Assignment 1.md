@@ -22,12 +22,16 @@ Develop a top down game that gives the player freedom of motion forward, backwar
 5. Add a second player
 6. Add health or shield (or equivalent in your game), so player can get hit multiple times without ending the game.
 7. Have a different idea? Let me know!
-. 
+
 ## Game Examples:
 [Frogger](https://en.wikipedia.org/wiki/Frogger)
+
 [Space Race](https://en.wikipedia.org/wiki/Space_Race_(video_game))
+
 [Spy Hunter](https://en.wikipedia.org/wiki/Spy_Hunter)
+
 [Monaco GP](https://en.wikipedia.org/wiki/Monaco_GP_(video_game))
+
 [Crazy Climber](https://en.wikipedia.org/wiki/Crazy_Climber)
 
 
@@ -46,4 +50,5 @@ Export your game from Unreal Engine:
 - Add a short description and at least 2 screenshots to Itch.io page.
 - Add a video of gameplay (Voice over is your choice) to the Itch.io page.
 - Publish and ensure page is visible.
+- Post the link in #game-dev-submission in the Discord channel
 
