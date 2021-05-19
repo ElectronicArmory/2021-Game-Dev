@@ -25,7 +25,8 @@ Develop a 3D top down, first person, or third person crawler game and have some 
 3. Use a Timeline to move an object, affect lighting, or change some property over time.
 4. Add a story via voice over or text. You can use a timer to change text.
 5. Add sound effects for various feedback such pick up, doors opening, walking, UI hover or clicks and more.
-6. Have a different idea? Let me know!
+6. Use light switches to turn off a number of lights. Make the light switch easy to see by highlighting it with a light or slightly emessive material.
+7. Have a different idea? Let me know!
 
 
 ## Game Examples:
