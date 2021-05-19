@@ -10,7 +10,10 @@ Assignments, notes and other resources for the live game dev course: https://www
 ## Notes
 [Materials](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/06%20-%20Materials%20in%20Game%20Dev.pdf)
 
-[Level Design]
+[Level Design](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/07%20-%20Level%20Design.pdf)
+
+[Blueprints 1](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/UE_Blueprints_Lecture02.pptx.pdf)
+[Blueprints 2](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/UE_Blueprints_Lecture03.pptx.pdf)
 
 [Intro to Animations]
 
@@ -20,10 +23,14 @@ Assignments, notes and other resources for the live game dev course: https://www
 ### Day 4
 [How to Actually Finish Your First Game](https://howtomarketagame.com/2018/01/09/how-to-actually-finish-your-first-game-this-year/)
 
+### Day 5
+[Level Design Quick Start](https://docs.unrealengine.com/en-US/BuildingWorlds/LDQuickStart/index.html)
+[Level Editor](https://docs.unrealengine.com/en-US/BuildingWorlds/LevelEditor/index.html)
+
 
 ## Assignments
 
-1st or 3rd person, or top down Crawler
+[1st or 3rd person, or top down Crawler](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Assignments/Assignment%202.md)
 
 # Week 1
 
