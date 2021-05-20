@@ -10,7 +10,7 @@ Develop a 3D top down, first person, or third person crawler game and have some 
 5. 3 modular level pieces (straight, turn and end piece).
 6. 2 different pick up objects that require interaction to pick up ([see Blueprint example](https://blueprintue.com/blueprint/86idfukr/)). Can be a health kit, key, treasure or something else.
 7. Include one puzzle, problem to solve, surprise or something to accomplish.
-8. All visible objects need to have materials applyed to them.
+8. All visible objects need to have materials applied to them.
 9. Add a Heads Up Display (HUD) for player feedback.
 10. Add a level that contains a start screen and at least one menu item (start game).
 11. Lose condition with new end game level or UI widget. Must provide ability to return to main menu or main game (restart).
