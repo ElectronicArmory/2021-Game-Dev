@@ -4,6 +4,17 @@ Assignments, notes and other resources for the live game dev course: https://www
 ## Resources
 [Blueprint Source Code](https://blueprintue.com/profile/electronicarmory/)
 
+# Week 3
+
+## Notes
+[Armatures and animation]
+
+[Animation and actions]
+
+[Animation Blueprints]
+
+## Readings
+
 
 # Week 2
 
