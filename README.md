@@ -7,13 +7,30 @@ Assignments, notes and other resources for the live game dev course: https://www
 # Week 3
 
 ## Notes
+[UE4 Gameplay Framework Classes](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/UE_Blueprints_Lecture04.pptx.pdf)
+
+[Simple Game Example](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/UE_Blueprints_Lecture05.pptx.pdf)
+
+[Advanced Blueprint Concepts 1](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/UE_Blueprints_Lecture06.pptx.pdf)
+
 [Armatures and animation]
 
 [Animation and actions]
 
 [Animation Blueprints]
 
+
 ## Readings
+[Basic Animation with Blender](https://www.youtube.com/watch?v=a8ub5MB42II&list=PLP8n25bNfkddcPBFRtGft8A5Z7WbGPdMu&index=19)
+
+[Character Modeling and Rigging](https://www.youtube.com/watch?v=xSENTfprRPc&list=PLP8n25bNfkddcPBFRtGft8A5Z7WbGPdMu&index=22)
+
+[Character Animations](https://www.youtube.com/watch?v=Z3xUdSnnen4&list=PLP8n25bNfkddcPBFRtGft8A5Z7WbGPdMu&index=23)
+
+
+## Assignment
+
+Assignment 3
 
 
 # Week 2
