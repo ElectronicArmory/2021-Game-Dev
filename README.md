@@ -4,6 +4,9 @@ Assignments, notes and other resources for the live game dev course: https://www
 ## Resources
 [Blueprint Source Code](https://blueprintue.com/profile/electronicarmory/)
 
+[Epic Games Mannequin for Blender](https://github.com/ElectronicArmory/EpicSkeleton)
+
+
 # Week 3
 
 ## Notes
@@ -13,11 +16,9 @@ Assignments, notes and other resources for the live game dev course: https://www
 
 [Advanced Blueprint Concepts 1](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/UE_Blueprints_Lecture06.pptx.pdf)
 
-[Armatures and animation]
+[Animation Blueprints](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/08%20-%20Animations.pdf)
 
-[Animation and actions]
-
-[Animation Blueprints]
+[Blueprints Command Flow](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/UE_Blueprints_Lecture07.pptx.pdf)
 
 
 ## Readings
@@ -27,10 +28,12 @@ Assignments, notes and other resources for the live game dev course: https://www
 
 [Character Animations](https://www.youtube.com/watch?v=Z3xUdSnnen4&list=PLP8n25bNfkddcPBFRtGft8A5Z7WbGPdMu&index=23)
 
+[Unreal Engine 5 Features](https://gadgets.ndtv.com/games/news/unreal-engine-5-download-early-access-new-features-world-partition-metasounds-2449797)
+
 
 ## Assignment
 
-Assignment 3
+[Assignment 3](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Assignments/Assignment%203.md)
 
 
 # Week 2
