@@ -23,7 +23,7 @@ Develop another, **new** 3D top down, first person, or third person game and hav
    3. **Animations** - Enemies, items and other objects should have animations and not just simply appear, disappear, slide/move.
    4. **Look and Feel** - Game has a consistent look and feel and materials match and look consistent.
    5. **Immersive environments** - Through good lighting, sound, models, materials, animations, and good QA, the environment should not disrupt the player's immersion in the game.
-2. **Fun or enjoyment** - Games should be fun. Impress me and make it an enjoyable experience.
+2. **Fun or enjoyment** - Games should be fun. Impress me and make it an enjoyable experience. (10%)
    1. **Theme** - Does the game match the chosen theme?
    2. **5 Why's** - Do the game's objectives make sense such as the win/lose conditions, enemies, pick ups, HUD status, environmental aspects, etc?
    3. **Thoughtful** - Does the game make the player think, feel, question or become surprised during the game?
