@@ -6,6 +6,52 @@ Assignments, notes and other resources for the live game dev course: https://www
 
 [Epic Games Mannequin for Blender](https://github.com/ElectronicArmory/EpicSkeleton)
 
+# Week 5
+
+## Notes
+
+[Blueprints Lecture 12](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/UE_Blueprints_Lecture12.pptx.pdf)
+
+[Blueprints Lecture 13](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/UE_Blueprints_Lecture13.pptx.pdf)
+
+
+# Week 4
+
+## Notes
+[Blueprints Lecture 08](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/UE_Blueprints_Lecture08.pptx.pdf)
+
+[Blueprints Lecture 09](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/UE_Blueprints_Lecture09.pptx.pdf)
+
+[Blueprints Lecture 10](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/UE_Blueprints_Lecture10.pptx.pdf)
+
+[Blueprints Lecture 11](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/UE_Blueprints_Lecture11.pptx.pdf)
+
+
+
+## Readings
+[Basic Animation in Blender](https://www.youtube.com/watch?v=a8ub5MB42II&list=PLP8n25bNfkddcPBFRtGft8A5Z7WbGPdMu&index=19)
+
+[Exporting Blender Animations to Unreal Engine](https://www.youtube.com/watch?v=JUnZeVhPmqI&list=PLP8n25bNfkddcPBFRtGft8A5Z7WbGPdMu&index=20)
+
+[UV Mapping of Models in Blender](https://www.youtube.com/watch?v=ovmV1hXHp0c&list=PLP8n25bNfkddcPBFRtGft8A5Z7WbGPdMu&index=21)
+
+[Character Modeling and Rigging](https://www.youtube.com/watch?v=xSENTfprRPc&list=PLP8n25bNfkddcPBFRtGft8A5Z7WbGPdMu&index=22)
+
+[Character Animation](https://www.youtube.com/watch?v=Z3xUdSnnen4&list=PLP8n25bNfkddcPBFRtGft8A5Z7WbGPdMu&index=23)
+
+[Character Texturing](https://www.youtube.com/watch?v=FpjdA36CUlA&list=PLP8n25bNfkddcPBFRtGft8A5Z7WbGPdMu&index=24)
+
+[12 Principles of Animation in Games](https://www.youtube.com/watch?v=1kFRU_xBZnE)
+
+[First Person Animation](https://www.youtube.com/watch?v=7Dga-UqdBR8)
+
+[Character animation playlist](https://www.youtube.com/c/Dikko/playlists)
+
+
+## Assignment
+
+[Assignment 4](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Assignments/Assignment%204.md)
+
 
 # Week 3
 
