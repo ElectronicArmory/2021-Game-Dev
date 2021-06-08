@@ -1,4 +1,4 @@
-# Game Dev Assignment 4 - Due Wednesday, June 9
+# Game Dev Assignment 4 - Due Wednesday, June 16
 
 ## Base Requirements
 Develop another, **new** 3D top down, first person, or third person game and have some kind of win and lose condition. Use [this game jam theme generator](https://letsmakeagame.net/game-jam-theme-generator/) to come up with a theme, or choose **"Wait, Are We the Bad Guys?"** as your theme.
