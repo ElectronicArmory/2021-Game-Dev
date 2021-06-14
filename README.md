@@ -6,6 +6,22 @@ Assignments, notes and other resources for the live game dev course: https://www
 
 [Epic Games Mannequin for Blender](https://github.com/ElectronicArmory/EpicSkeleton)
 
+
+# Week 6
+
+## Notes
+
+## Readings
+
+[AI Perception](https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/ArtificialIntelligence/AIPerception/)
+
+[Behavior Tree Quick Start Guide](https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/ArtificialIntelligence/BehaviorTrees/BehaviorTreeQuickStart/)
+
+[UE4 Behavior Trees Documentation](https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/ArtificialIntelligence/BehaviorTrees/)
+
+[AI Debugging](https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/ArtificialIntelligence/AIDebugging/)
+
+
 # Week 5
 
 ## Notes
@@ -13,6 +29,17 @@ Assignments, notes and other resources for the live game dev course: https://www
 [Blueprints Lecture 12](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/UE_Blueprints_Lecture12.pptx.pdf)
 
 [Blueprints Lecture 13](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/UE_Blueprints_Lecture13.pptx.pdf)
+
+[AI in Games](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/UE4-Game_Dev%20-%2009.pptx.pdf)
+
+[Interfaces](https://github.com/ElectronicArmory/2021-Game-Dev/blob/main/Notes/UE4-Game_Dev%20-%2010.pptx.pdf)
+
+## Readings
+[A* Pathfinding](http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)
+
+[UI Anchors](https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/UMG/UserGuide/Anchors/)
+
+[Blending Animations](https://docs.unrealengine.com/4.26/en-US/AnimatingObjects/SkeletalMeshAnimation/AnimHowTo/AdditiveAnimations/)
 
 
 # Week 4
